@@ -1,5 +1,5 @@
 /*(C) Liam Letters 2021
-Free use for whatever purpose is permitted, provide this copyright comment/segment remains intact*/
+Free use for whatever purpose is permitted, provided this copyright comment/segment remains intact*/
 #include <LiquidCrystal.h>
 
 LiquidCrystal lcd(2,3,4,5,6,7);
